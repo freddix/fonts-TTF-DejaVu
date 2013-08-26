@@ -2,12 +2,12 @@
 
 Summary:	Bitstream Vera True Type fonts fork with latin-ext-A characters
 Name:		fonts-TTF-DejaVu
-Version:	2.33
-Release:	4
+Version:	2.34
+Release:	1
 License:	distributable
 Group:		Fonts
 Source0:	http://downloads.sourceforge.net/project/dejavu/dejavu/%{version}/%{rname}-fonts-ttf-%{version}.tar.bz2
-# Source0-md5:	8b601e91725b6d69141b0fcf527948c0
+# Source0-md5:	161462de16e2ca79873bc2b0d2e6c74c
 URL:		http://dejavu-fonts.org/wiki/Main_Page
 Requires(post,postun):	fontpostinst
 Requires:	%{_fontsdir}/TTF
